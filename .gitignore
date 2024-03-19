@@ -8,7 +8,7 @@
 # testing
 /coverage
 
-# production
+# productiongit remote add origin https://github.com/shahir143/basic-react.git
 /build
 
 # misc
